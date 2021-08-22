@@ -60,12 +60,8 @@ require('./functions/routes.php');
                 <p>&copy; <?=date('Y');?></p>
             </div>
             <div>
-                <h5>Redes Sociais:</h5>
-                <div class="social-media">
-                    <a href="#"> <i class="fab fa-instagram"></i></a>
-                    <a href="#"><i class="fab fa-facebook"></i></a> 
-                    <a href="#"><i class="fab fa-twitter-square"></i></a>
-                </div>
+                <h3>Lucas Hirata Luz</h3>
+                <h3>RA: 20023369-5</h3>
             </div>
             
         </div>
